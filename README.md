@@ -21,4 +21,3 @@ tips:
 
 默认密码都是123，登录名为 admin || 123
 
-项目导入运行步骤可以前往博客文章[CSDN](http://blog.csdn.net/lger_pro/article/details/79181044)或[cnblogs](https://www.cnblogs.com/lger/p/8366320.html)
